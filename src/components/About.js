@@ -4,7 +4,7 @@ export default function About() {
     return (
         <div className="about-container">
             <h2>About Timely Tasks</h2>
-            <p>Timely Tasks is a modern task management app designed to help individuals and teams stay organized, manage their time effectively, and accomplish their goals.</p>
+            <p>Timely Tasks is a task management app designed to help individuals and teams stay organized, manage their time effectively, and accomplish their goals.</p>
             <p>With Timely Tasks, you can:</p>
             <ul>
                 <li>Track your tasks and projects with ease</li>

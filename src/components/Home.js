@@ -20,6 +20,7 @@ export default function Home() {
             <section className="get-started-section">
                 <h2>Get Started</h2>
                 <p>Sign in or create an account to start managing your tasks efficiently.</p>
+                <Link to="/" className="button">Home</Link>
                 <Link to="/login" className="button">Login</Link>
                 <Link to="/signup" className="button">Sign Up</Link>
             </section>
